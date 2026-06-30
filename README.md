@@ -1,4 +1,5 @@
 # Internal Expense Audit & Financial Risk Detection Framework
+An internal financial governance project focused on operational data sanitation, anomaly detection, and corporate audit readiness. This system ingest raw, unsanitized regional expense logs and structures them into a query-ready relational database to isolate budget leakages and verify corporate compliance.
 
 ## 📌 Business Case & Problem
 Manual data entries and unsanitized operational logs left the company vulnerable to financial leakages, duplicate payouts, and undocumented vendor expenses.
