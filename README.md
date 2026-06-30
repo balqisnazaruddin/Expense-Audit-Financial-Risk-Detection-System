@@ -8,7 +8,7 @@ Manual data entries and unsanitized operational logs left the company vulnerable
 * **The Fix:** Transformed chaotic operational records into a highly structured database to audit regional expenditures and isolate financial anomalies.
 
 ## 📊 Project Files & Documentation
-* 📎 **[Download Live Excel Worksheet - PROJECT 2 SUMMARY](PROJECT%202%20AUDIT.xlsx)**
+* 📎 **[Download Live Excel Worksheet - PROJECT 2 SUMMARY](PROJECT%202%20-%20AUDIT.xlsx)**
 * 📄 **[Open & View Project Presentation Deck (PDF)](PROJECT%202.pdf)**
 
 ## 🎯 Quantifiable Business Impact
